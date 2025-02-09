@@ -1,0 +1,8 @@
+alpaca-trade-api==2.2.0      # Alpaca API for stock trading
+pandas==1.5.3                # Data manipulation and analysis
+numpy==1.24.0                # Numerical computing
+matplotlib==3.7.0            # Plotting and graphing (optional, for visualizing data)
+backtrader==1.9.78.123       # Backtesting library for trading strategies
+requests==2.28.2             # HTTP requests (if needed for data APIs)
+pytest==7.2.2                # Testing framework (if you plan to write tests)
+

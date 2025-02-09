@@ -9,7 +9,7 @@ logs/
 
 # Config
 config/settings.py  # Or any file that stores sensitive info
-
+config/api_key.json
 # Virtual Environment
 venv/
 .env/
