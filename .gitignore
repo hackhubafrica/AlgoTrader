@@ -1,0 +1,23 @@
+# Python
+*.pyc
+__pycache__/
+*.pyo
+
+# Logs
+logs/
+*.log
+
+# Config
+config/settings.py  # Or any file that stores sensitive info
+
+# Virtual Environment
+venv/
+.env/
+
+# Jupyter Notebooks Checkpoints
+.ipynb_checkpoints/
+
+# Other IDE files
+.vscode/
+.idea/
+
